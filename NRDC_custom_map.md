@@ -1,5 +1,16 @@
 # Custom Map for the Natural Resources Defense Council
-I choose to create a map for the NRDC. I started off by 
+
+I choose to create a map for the NRDC. I started off by taking a screenshot of their website that captured the color palette that I'd be using. Here's the screenshot that I took.
+
+![](https://github.com/mattko517/GIS_portfolio/blob/67409c1ec88199ffe96b60a4a022c7d252ca5f3d/NRDC%20website%20screenshot.png?raw=true)
+
+As you can see there wasn't much to go off of so I ended up using only 6 colors, including white. Making this custom map proved to be difficult because I wanted to make it as minimalistic as possible while using this limited color palette. In hindsight, if I had limited the number of features on the map, I think I would have been able to accomplish my goal a bit better. I also realize that having more specific points of interest might help me clean up the map as well. 
+
+Here's a screenshot of my final map and the D.C. area.
+
+![](https://github.com/mattko517/GIS_portfolio/blob/67409c1ec88199ffe96b60a4a022c7d252ca5f3d/Map%20Screenshot.png?raw=true)
+
+Here's my JSON code for the map that I created.
 
 [
   {
