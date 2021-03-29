@@ -1,5 +1,7 @@
 # Custom Map for the Natural Resources Defense Council
-" [
+I choose to create a map for the NRDC. I started off by 
+
+[
   {
     "elementType": "geometry",
     "stylers": [
